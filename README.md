@@ -12,8 +12,9 @@ I build financial analytics projects in credit risk, market risk and investment 
 | [Momentum in Indian Equities](https://github.com/keyurmarolia/momentum-in-indian-equities-research) | How sensitive are momentum results to portfolio construction, costs and tax assumptions? | 180 configurations, saved comparisons and a local research dashboard |
 | [InterGlobe Aviation](https://github.com/keyurmarolia/interglobe-aviation-equity-research-model) | How do airline operating drivers, fleet investment and leases affect valuation? | Excel operating forecast, DCF, sensitivities and reverse DCF |
 | [Pricol Equity Research](https://github.com/keyurmarolia/pricol-equity-research) | What growth, reinvestment and profitability assumptions support equity value? | Integrated Excel three-statement model, DCF, reverse DCF and source reconciliations |
+| [Cholamandalam Finance](https://github.com/keyurmarolia/cholamandalam-finance-equity-research) | What growth, credit costs and equity reinvestment support a lender's valuation? | Excel three-statement forecast, FCFE valuation and reverse DCF |
 
-Each project opens with results and a chart preview. Saved notebooks and reports can be reviewed before installing dependencies. Data sources, synthetic assumptions and material limitations are stated within each repository.
+Each project opens with its scope, results and exploration links. Saved notebooks and reports can be reviewed before installing dependencies. Data sources, synthetic assumptions and material limitations are stated within each repository.
 
 ## Technical focus
 
