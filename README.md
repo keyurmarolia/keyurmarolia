@@ -4,12 +4,15 @@
 
 I focus on equity research, company analysis and valuation. My projects connect financial statements, business drivers and capital allocation to earnings forecasts, cash flows and market-implied expectations.
 
+My flagship practical project is **[Fortune Alpha 13](https://github.com/keyurmarolia/fortune-alpha-13)**, a systematic equity-momentum framework used in live investment workflows. The public edition presents its signal, portfolio, sizing, exit and trade-reconciliation code with an offline synthetic demonstration.
+
 I use Excel, Python and SQL for financial modelling and investment research, with supporting work in credit risk and market risk.
 
 ## Selected projects
 
 | Project | Business question | Evidence to explore |
 |---|---|---|
+| [Fortune Alpha 13](https://github.com/keyurmarolia/fortune-alpha-13) | How do momentum signals become a sized, monitored and reconciled equity portfolio? | Practical strategy code, 13-stock construction, cash-based sizing, trend exits and an offline demonstration |
 | [Pricol Equity Research](https://github.com/keyurmarolia/pricol-equity-research) | What growth, reinvestment and profitability assumptions support equity value? | Three-case Excel forecast, DCF, reverse DCF and forward P/E comparison |
 | [Cholamandalam Finance](https://github.com/keyurmarolia/cholamandalam-finance-equity-research) | What growth, credit costs and equity reinvestment support a lender's valuation? | Excel lender model, FCFE valuation, reverse-implied ROE and reconciliation review |
 | [InterGlobe Aviation](https://github.com/keyurmarolia/interglobe-aviation-equity-research-model) | How do airline operating drivers, fleet investment and leases affect valuation? | Excel operating forecast, DCF, sensitivities and reverse DCF |
